@@ -7,5 +7,5 @@ ROW_NUMBER()
 OVER 
 (PARTITION BY EmployeeID
 ORDER BY EmployeeID) RNK
-FROM Employeessss
+FROM Employeessss.kjjhjhgfhg
 ) WHERE RNK>1
